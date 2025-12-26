@@ -45,7 +45,7 @@ Dia 1/
 ---
 ## 🔗 Perfil no Beecrowd
 
-👉 [Meu perfil no Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/1158121)
+👉 [Meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1158121)
 
 ---
 
