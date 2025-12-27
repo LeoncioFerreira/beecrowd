@@ -8,8 +8,8 @@ O objetivo é aprimorar lógica de programação, estrutura de dados, leitura de
 
 ## 👨‍💻 Autor
 
-| Nome                         | GitHub |
-| ---------------------------- | ------ |
+| Nome                         | GitHub                                                 |
+| ---------------------------- | ------------------------------------------------------ |
 | Leôncio Ferreira Flores Neto | [@LeoncioFerreira](https://github.com/LeoncioFerreira) |
 
 ---
@@ -36,13 +36,16 @@ O objetivo é aprimorar lógica de programação, estrutura de dados, leitura de
 - Os arquivos seguem o **ID do problema no Beecrowd**
 
 Exemplo:
+
 ```
 Dia 1/
 ├── 1 beecrowd | 1001.py
 ├── 2 beecrowd | 1005.py
 └── ...
 ```
+
 ---
+
 ## 🔗 Perfil no Beecrowd
 
 👉 [Meu perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1158121)
@@ -60,13 +63,14 @@ Dia 1/
 - Lógica geral
 
 ---
+
 ## 📅 Progresso Diário
 
-| Dia | Data       | Problemas Resolvidos | Status |
-|----:|------------|----------------------|--------|
-| 01  | 26/12/2025 | 10                   | ✅ Concluído |
-| 02  | 27/12/2025 | 0                    | Não iniciado |
-| 03  | 28/12/2025 | 0                    | Não iniciado |
+| Dia | Data       | Problemas Resolvidos | Status       |
+| --: | ---------- | -------------------- | ------------ |
+|  01 | 26/12/2025 | 10                   | ✅ Concluído |
+|  02 | 27/12/2025 | 10                   | ✅ Concluído |
+|  03 | 28/12/2025 | 0                    | Não iniciado |
 
 ## 📌 Observações
 
@@ -80,3 +84,4 @@ Dia 1/
 
 ```bash
 python nome_do_arquivo.py
+```
