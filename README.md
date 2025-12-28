@@ -16,7 +16,7 @@ O objetivo é aprimorar lógica de programação, estrutura de dados, leitura de
 
 ## 🎯 Objetivos do Desafio
 
-- Resolver **10 problemas por dia**
+- Resolver pelo menos**5 problemas por dia**
 - Evoluir em lógica e programação competitiva
 - Criar o hábito de estudo diário
 - Construir um portfólio público no GitHub
@@ -70,7 +70,7 @@ Dia 1/
 | --: | ---------- | -------------------- | ------------ |
 |  01 | 26/12/2025 | 10                   | ✅ Concluído |
 |  02 | 27/12/2025 | 10                   | ✅ Concluído |
-|  03 | 28/12/2025 | 0                    | Não iniciado |
+|  03 | 28/12/2025 | 5                    | ✅ Concluído |
 
 ## 📌 Observações
 
