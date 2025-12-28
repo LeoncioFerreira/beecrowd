@@ -1,6 +1,6 @@
-# 🚀 Desafio Beecrowd – 10 Problemas por Dia
+# 🚀 Desafio Beecrowd – 5 Problemas por Dia
 
-Este repositório documenta meu desafio pessoal de resolver **10 problemas por dia** na plataforma **Beecrowd**, utilizando **Python**.
+Este repositório documenta meu desafio pessoal de resolver pelo menos **5 problemas por dia** na plataforma **Beecrowd**, utilizando **Python**.
 
 O objetivo é aprimorar lógica de programação, estrutura de dados, leitura de enunciados e constância nos estudos.
 
@@ -16,7 +16,7 @@ O objetivo é aprimorar lógica de programação, estrutura de dados, leitura de
 
 ## 🎯 Objetivos do Desafio
 
-- Resolver pelo menos**5 problemas por dia**
+- Resolver pelo menos **5 problemas por dia**
 - Evoluir em lógica e programação competitiva
 - Criar o hábito de estudo diário
 - Construir um portfólio público no GitHub
