@@ -1,0 +1,16 @@
+valor = float(input())
+
+if valor> 25 and valor <=50:
+    print("Intervalo (25,50]")
+
+elif valor<= 25 and valor >=0:
+    print("Intervalo [0,25]")
+
+elif valor > 75 and valor <= 100:
+    print("Intervalo (75,100]")
+
+elif valor > 50 and valor <= 75:
+    print("50,75]")
+
+else:
+    print("Fora de intervalo")
